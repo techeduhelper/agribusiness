@@ -39,7 +39,6 @@ const Collaboration = () => {
                 className="py-2 px-2 lg:h-32 sm:h-20 border-8 shadow-xl cursor-pointer hover:translate-x-2 hover:duration-200 "
               />
             ))}{" "}
-            console.log(image)
             {images.map((image) => (
               <img
                 key={image}
