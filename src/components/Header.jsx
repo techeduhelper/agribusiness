@@ -110,7 +110,7 @@ const Header = () => {
         </Navbar>
       ))}
       <div>
-        <Navbar className="bg-green-600 h-7 text-white flex gap-4 justify-end pr-5 text-md py-2 shadow-md">
+        <Navbar className="bg-green-600 h-7 text-white flex gap-2 justify-end pr-5 text-md py-2 shadow-md">
           <span className="flex items-center gap-1">
             <span>
               <AiFillPhone size={24} />
